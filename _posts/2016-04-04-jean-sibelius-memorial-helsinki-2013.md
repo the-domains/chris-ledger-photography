@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Jean Sibelius Memorial - Helsinki (2013)
-datePublished: '2016-04-04T19:27:15.810Z'
-dateModified: '2016-04-04T19:26:34.163Z'
+datePublished: '2016-04-04T19:48:10.367Z'
+dateModified: '2016-04-04T19:48:09.821Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-04-jean-sibelius-memorial-helsinki-2013.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-jean-sibelius-memorial-helsinki-2013.md
-published: true
 url: jean-sibelius-memorial-helsinki-2013/index.html
 _type: Article
 
