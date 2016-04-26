@@ -1,28 +1,40 @@
-name: Chris Ledger Photography
 favicon: null
-layout_spectrum: 0.87597
-typography_spectrum: 0.45677
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Chris Ledger Photography
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7680851
+  brandStrength: 0.1875
+  lightness: 0.8255319
   brandColors:
     - '#8d4d2a'
     - '#49200c'
     - '#c58851'
     - '#c7ac7d'
     - '#110c09'
-  brandStrength: 0.1875
-  lightness: 0.5290118323173374
-  saturation: 0.375
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.9914894
+typography_spectrum: 0.45677
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.87597
+analytics:
+  twitter: null
+  google: null
+  facebook: null
