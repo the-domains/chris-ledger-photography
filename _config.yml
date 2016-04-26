@@ -1,5 +1,4 @@
-favicon: null
-name: Chris Ledger Photography
+layout_spectrum: 0.4957447
 opengraph:
   image: null
   type: null
@@ -33,8 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.87597
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Chris Ledger Photography
