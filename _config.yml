@@ -1,4 +1,4 @@
-layout_spectrum: 0.4957447
+name: Chris Ledger Photography
 opengraph:
   image: null
   type: null
@@ -9,17 +9,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.7680851
-  brandStrength: 0.1875
-  lightness: 0.8255319
+  brandStrength: 0.4978724
+  lightness: 0
   brandColors:
     - '#8d4d2a'
     - '#49200c'
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: Chris Ledger Photography
+layout_spectrum: 0.4957447
